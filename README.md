@@ -1,1 +1,1 @@
-TR.EGS.COM
+tr.guvenlisite.com
