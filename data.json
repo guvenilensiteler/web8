@@ -4,75 +4,15 @@
     "logo": "",
     "sites": [
       {
-        "url": "https://bit.ly/ggxmono",
+        "url": "https://bit.ly/perabetgrs",
         "desc": [
           ""
         ],
-        "site": "monobahis",
+        "site": "perabet",
         "sort": null,
-        "color": "#e5385c",
-        "miktar": "₺250",
-        "promo_code": "250spin",
-        "slider_img": ""
-      },
-      {
-        "url": "https://bit.ly/ggxbetgram",
-        "desc": [
-          ""
-        ],
-        "site": "betgram",
-        "sort": null,
-        "color": "#50b812",
-        "miktar": "₺500",
+        "color": "#18cf5f",
+        "miktar": "₺333",
         "promo_code": null,
-        "slider_img": ""
-      },
-      {
-        "url": "https://bit.ly/ggxcadde",
-        "desc": [
-          ""
-        ],
-        "site": "caddebet",
-        "sort": null,
-        "color": "#e50539",
-        "miktar": "₺250",
-        "promo_code": "250spin",
-        "slider_img": ""
-      },
-      {
-        "url": "https://bit.ly/ggxklas",
-        "desc": [
-          ""
-        ],
-        "site": "klasbahis",
-        "sort": null,
-        "color": "#23a0d2",
-        "miktar": "₺250",
-        "promo_code": "250spin",
-        "slider_img": ""
-      },
-      {
-        "url": "https://bit.ly/ggxpoker",
-        "desc": [
-          ""
-        ],
-        "site": "pokerklas",
-        "sort": null,
-        "color": "#999",
-        "miktar": "₺250",
-        "promo_code": "250spin",
-        "slider_img": ""
-      },
-      {
-        "url": "https://bit.ly/ggxjest",
-        "desc": [
-          ""
-        ],
-        "site": "jestbahis",
-        "sort": null,
-        "color": "#ffcf01",
-        "miktar": "₺250",
-        "promo_code": "250spin",
         "slider_img": ""
       },
       {
@@ -380,60 +320,40 @@
         "sort": "4",
         "sites": [
           {
-            "site": "monobahis",
+            "site": "perabet",
             "sort": "1"
           },
           {
-            "site": "betgram",
+            "site": "betturkey",
             "sort": "2"
           },
           {
-            "site": "caddebet",
+            "site": "xslot",
             "sort": "3"
           },
           {
-            "site": "klasbahis",
+            "site": "bayspin",
             "sort": "4"
           },
           {
-            "site": "pokerklas",
+            "site": "baywin",
             "sort": "5"
           },
           {
-            "site": "jestbahis",
-            "sort": "8"
-          },
-          {
-            "site": "xslot",
-            "sort": "7"
-          },
-          {
-            "site": "betturkey",
+            "site": "betine",
             "sort": "6"
           },
           {
-            "site": "bayspin",
-            "sort": "9"
-          },
-          {
-            "site": "baywin",
-            "sort": "10"
-          },
-          {
-            "site": "betine",
-            "sort": "11"
-          },
-          {
             "site": "betorspin",
-            "sort": "12"
+            "sort": "7"
           },
           {
             "site": "betist",
-            "sort": "13"
+            "sort": "8"
           },
           {
             "site": "milbet",
-            "sort": "14"
+            "sort": "9"
           }
         ]
       },
