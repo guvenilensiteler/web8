@@ -25,6 +25,13 @@
         gtag('config', 'G-K7FTG2BZZG');
     </script>
 
+    <script>
+        // HTTPS Sorunu Fix
+        if (document.URL.startsWith('http://')) {
+            window.location.href = document.URL.replace('http://','https://');
+        }
+    </script>
+
 </head>
 <style>
     .row.strip h1 {
